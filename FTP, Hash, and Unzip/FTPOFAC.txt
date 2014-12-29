@@ -1,0 +1,7 @@
+open
+user anonymous  admin@yourcompany.com
+cd fac_sdn
+namefmt 1
+get sdall.zip /OFAC/sdall.zip (replace
+close
+quit   
